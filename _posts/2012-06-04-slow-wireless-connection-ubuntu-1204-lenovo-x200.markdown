@@ -2,7 +2,7 @@
 layout: post
 title:  "Slow Wireless Connection Using Ubuntu 12.04 and a Lenovo Thinkpad X200"
 date:   2012-06-04 18:37:52
-categories: jekyll update
+categories: linux
 ---
 There are, of course, many reasons as to why your wireless connection may be painfully slow. I'm writing this post, primarily as a reference for myself but hopefully it may act as a helper for others who find themselves in a similar situation. At this point it's important to note that with anything that is both hardware and software related there are so many variables in play that this solution may not work for you. Nevertheless it is a simple solution and if the issue described is ringing any bells, it's certainly worth a try! Before I dive into the solution, it's probably best to lay down the problem, the hardware and the linux distribution to which this problem occurs:
 
