@@ -4,7 +4,7 @@ job: Software Engineer at Sky Bet
 email: mail@mattkirwan.com
 description: > # Matt Kirwan is a Software Engineer for Sky Bet based in Leeds, UK.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://www.mattkirwan.com" # the base hostname & protocol for your site
+url: "http://www.mattkirwan.com" # the base hostname & protocol for your site
 twitter_username: mattkirwan
 github_username:  mattkirwan
 
