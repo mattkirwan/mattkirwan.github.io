@@ -40,10 +40,16 @@
 	},
 	"expanded_folders":
 	[
-		"/home/matt/Personal/mattkirwan.github.io"
+		"/Users/mki12/personal_code/mattkirwan.github.io",
+		"/Users/mki12/personal_code/mattkirwan.github.io/_posts"
 	],
 	"file_history":
 	[
+		"/Users/mki12/personal_code/mattkirwan.github.io/_posts/2012-06-04-slow-wireless-connection-ubuntu-1204-lenovo-x200.markdown",
+		"/Users/mki12/personal_code/mattkirwan.github.io/_posts/2015-12-04-interesting-note-on-the-rendering-of-a-component.markdown",
+		"/Users/mki12/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.sublime-settings",
+		"/Users/mki12/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/mki12/personal_code/mattkirwan.github.io/mattkirwan.github.io.sublime-project"
 	],
 	"find":
 	{
@@ -118,6 +124,10 @@
 	{
 		"height": 0.0
 	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
 	"pinned_build_system": "",
 	"project": "mattkirwan.github.io.sublime-project",
 	"replace":
@@ -155,12 +165,41 @@
 	"selected_group": 0,
 	"settings":
 	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
 	},
-	"show_minimap": true,
+	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_visible": false,
+	"side_bar_width": 381.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
