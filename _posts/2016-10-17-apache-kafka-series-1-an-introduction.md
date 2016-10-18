@@ -52,7 +52,7 @@ To give you some idea of throughput, a single Kafka broker is capable of reading
 
 Zookeeper is a centralised service for coordinating distributed systems. Kafka is designed as a distributed system and for this reason it intentionally offloads the common problems associated with coordinating these distributed systems.
 
-It has a hard depenency on Zookeeper. This is a great thing. It allows Kafka to what it's good at without re-inventing the wheel and trying to solve problems it shouldn't be concerned with.
+It has a hard dependency on Zookeeper. This is a great thing. It allows Kafka to what it's good at without re-inventing the wheel and trying to solve problems it shouldn't be concerned with.
 
 Kafka hands off several things to Zookeeper for management and coordination - namely broker, partition and topic management.
 
